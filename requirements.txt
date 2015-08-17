@@ -1,2 +1,4 @@
 Django==1.8
+gunicorn==19.3.0
+selenium==2.47.1
 wheel==0.24.0
