@@ -102,3 +102,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, '../static')
+
+
+FILE_CHARSET='GB18030'
+DEFAULT_CHARSET='utf-8'
